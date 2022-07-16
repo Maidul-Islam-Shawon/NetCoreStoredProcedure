@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x3cJi/nwLbCqu2SDg2+VCgL7uM6Xa3n9P8PecTDnHcY=",
+  "Source": "NetCoreStoredProcedure",
+  "BasePath": "_content/NetCoreStoredProcedure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
